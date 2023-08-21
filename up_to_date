@@ -1,1 +1,2 @@
 git pull
+echo "iam george and first time to update"  > README.md
