@@ -1,1 +1,1 @@
-my first readme.md 
+iam george and first time to update 
